@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "94492466363",
+    "firebase_url": "https://haircut-8347c-default-rtdb.firebaseio.com",
+    "project_id": "haircut-8347c",
+    "storage_bucket": "haircut-8347c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94492466363:android:e584c2a8bd7113d435dd9e",
+        "android_client_info": {
+          "package_name": "com.example.haircutscheduling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94492466363-4lrqr7b59vqj2kfsupfqc6k1lji4eep9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD73LR2_D1CsfoDTVaPteFvD7Gs1Yfmea8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94492466363-4lrqr7b59vqj2kfsupfqc6k1lji4eep9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
